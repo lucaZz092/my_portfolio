@@ -15,12 +15,6 @@ Neste portfólio, apresento minhas habilidades técnicas, projetos desenvolvidos
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
-- **React.js**
-- **Node.js**
-- **Python**
-- **SQL**
-- **Git**
 
 ---
 
